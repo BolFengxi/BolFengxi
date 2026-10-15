@@ -10,31 +10,32 @@
 
 ## 🕸️ About Me
 
-<img align="right" src="https://raw.githubusercontent.com/BolFengxi/BolFengxi/main/assets/comic-coding.png" alt="Hero komik orisinal di atap kota pada malam hari dengan laptop" width="32%" />
+<img align="right" src="https://raw.githubusercontent.com/BolFengxi/BolFengxi/main/assets/comic-coding.png" alt="Hero komik orisinal di atap kota pada malam hari dengan laptop" width="28%" />
 
-```javascript
-const developer = {
-  handle: "BolFengxi",
-  focus: [
-    "Web development",
-    "Mobile apps",
-    "Browser automation"
-  ],
-  stack: {
-    web: ["Django", "JavaScript"],
-    mobile: ["Flutter", "Dart"],
-    automation: ["Python", "Selenium"]
-  }
-};
-```
+### Hi, I'm Iqbal 👋
 
-> Belajar lewat proyek. Berkembang lewat proses.
+Saya membangun aplikasi web, aplikasi mobile, dan otomasi dengan Python. Di sini saya membagikan proyek yang saya kerjakan, eksperimen, serta catatan dari proses belajarnya.
+
+#### What I Build
+
+🌐 **Web applications**  
+Aplikasi Django dengan autentikasi, pengelolaan data, dan antarmuka interaktif.
+
+📱 **Mobile experiences**  
+Aplikasi Flutter yang menghubungkan tampilan mobile dengan backend Django.
+
+⚙️ **Everyday automation**  
+Skrip Python dan Selenium untuk membantu mengerjakan tugas berulang.
 
 <br clear="both" />
 
 ## 📬 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/iqbal-rafi-nuryana-201836315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Iqbal Rafi Nuryana" /></a>
+  &nbsp;
+  <a href="mailto:raflyiqbal1409@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Iqbal" /></a>
+  &nbsp;
   <a href="https://github.com/BolFengxi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub BolFengxi" /></a>
 </p>
 
@@ -83,4 +84,5 @@ const developer = {
 <p align="center">
   <sub>Thanks for stopping by. Explore the code, follow the progress.</sub>
 </p>
+
 
