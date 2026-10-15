@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="#tentang-saya">Tentang saya</a> &nbsp;·&nbsp;
-  <a href="#teknologi">Teknologi</a> &nbsp;·&nbsp;
-  <a href="#proyek-pilihan">Proyek pilihan</a>
+  <a href="#user-content-tentang-saya">Tentang saya</a> &nbsp;·&nbsp;
+  <a href="#user-content-teknologi">Teknologi</a> &nbsp;·&nbsp;
+  <a href="#user-content-proyek-pilihan">Proyek pilihan</a>
 </p>
 
 ## Tentang saya
