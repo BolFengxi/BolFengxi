@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Iqbal — Web, Mobile, Automation</title>
+  <desc id="desc">Banner profil Iqbal, juga dikenal sebagai BolFengxi, dengan latar biru gelap dan aksen mint.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d34"/><stop offset="1" stop-color="#080e1c"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1060" cy="168" r="145" fill="#60a5fa" opacity=".04"/>
+  <circle cx="1060" cy="168" r="109" fill="none" stroke="#60a5fa" stroke-opacity=".16"/>
+  <circle cx="1060" cy="168" r="73" fill="none" stroke="#5eead4" stroke-opacity=".2"/>
+  <path d="m1034 142-25 26 25 26m52-52 25 26-25 26m-20-59-16 66" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="64" y="66" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="107" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">BOLFENGXI / GITHUB</text>
+  <text x="60" y="199" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Halo, saya Iqbal.</text>
+  <text x="64" y="248" fill="#a9b8ce" font-family="Segoe UI,Arial,sans-serif" font-size="23" letter-spacing="1">WEB &#183; MOBILE &#183; AUTOMATION</text>
+  <rect x="64" y="286" width="172" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
