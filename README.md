@@ -55,10 +55,6 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BolFengxi&amp;theme=tokyonight" alt="Ringkasan profil dan grafik kontribusi GitHub BolFengxi" width="98%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BolFengxi&amp;theme=tokyonight" alt="Bahasa pemrograman berdasarkan repositori" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BolFengxi&amp;theme=tokyonight" alt="Bahasa pemrograman berdasarkan commit" width="49%" />
 </p>
